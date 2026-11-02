@@ -5,6 +5,6 @@
        runs-on: ubuntu-latest
        steps:
          - name: Приветствие
-           run: echo "Привет, GitHub Actions!"
+           run: echo "Привет, Жылдыз!"
          - name: Дата и время
            run: date
